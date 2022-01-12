@@ -1,0 +1,26 @@
+body{
+    font: 20px Arial, sans-serif
+}
+
+.navbar {
+    background-color: rgb(255, 253, 253);
+}
+
+.curriculo{
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+
+.margin{
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.contatos{
+    background-color: #f9fbff;
+}
+
+.bg-footer{
+    background-color: black;
+    color:white;
+}
